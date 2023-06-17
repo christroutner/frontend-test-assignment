@@ -1,0 +1,5 @@
+0:["T5RNjjvpL04Bh7c5P0Yv9",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L1",[[],["$L2",null]]]]]
+3:I{"id":"3211","chunks":["272:static/chunks/webpack-bf1a64d1eafd2816.js","253:static/chunks/bce60fc1-49ee79ad31766ac6.js","769:static/chunks/769-8ab68f842512379f.js"],"name":"","async":false}
+4:I{"id":"5767","chunks":["272:static/chunks/webpack-bf1a64d1eafd2816.js","253:static/chunks/bce60fc1-49ee79ad31766ac6.js","769:static/chunks/769-8ab68f842512379f.js"],"name":"","async":false}
+1:[["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L4",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":[["$","h1",null,{"children":"Hello, Next.js!"}],null],"segment":"__PAGE__"},"styles":[]}]}]}],null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
